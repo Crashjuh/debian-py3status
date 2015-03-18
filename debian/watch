@@ -1,0 +1,4 @@
+version=3
+
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/py3status-$1\.tar\.gz/ \
+  https://github.com/ultrabug/py3status/tags .*/v?(\d\S*)\.tar\.gz

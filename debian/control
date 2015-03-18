@@ -1,0 +1,28 @@
+Source: py3status
+Maintainer: Federico Ceratto <federico@debian.org>
+Section: python
+Priority: optional
+Build-Depends:
+ debhelper (>= 9~)
+Build-Depends-Indep:
+ dh-python,
+ python-all (>= 2.6.6-3~),
+ python-setuptools (>= 0.6b3)
+Standards-Version: 3.9.6
+Homepage: https://github.com/ultrabug/py3status
+X-Python-Version: >= 2.7
+Vcs-Git: git://anonscm.debian.org/collab-maint/py3status.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/py3status.git
+
+Package: py3status
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Provides: ${python:Provides}
+Description: extensible i3status wrapper
+ py3status is an extensible i3status wrapper written in Python
+ Using py3status, you can take control of your i3bar easily by:
+  - using one of the availables modules shipped with py3status
+  - writing your own modules and have their output displayed on your bar
+  - handling click events on your i3bar and play with them in no time
+  - seeing your clock tick every second whatever your i3status interval
+ No extra configuration file needed, just install & enjoy!
