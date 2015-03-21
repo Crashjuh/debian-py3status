@@ -1,0 +1,5 @@
+py3status (2.3-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #780806)
+
+ -- Federico Ceratto <federico@debian.org>  Sat, 21 Mar 2015 21:17:04 +0000
