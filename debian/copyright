@@ -1,8 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
 Files: py3status/modules/battery_level.py
-Copyright: Thomas <thomas@thomasme.es>, Ultrabug <ultrabug@gentoo.org>, Vasiliy
-Horbachenko <shadowprince47@gmail.com>, AdamBSteele
+Copyright: Thomas <thomas@thomasme.es>, Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>, AdamBSteele
 License: EPL-1.0
 
 Files: py3status/modules/bitcoin_price.py
