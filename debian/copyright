@@ -1,15 +1,15 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
 Files: py3status/modules/battery_level.py
-Copyright: Thomas <thomas@thomasme.es>, Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>, AdamBSteele
+Copyright: Thomas <thomas@thomasme.es>, Ultrabug <ultrabug@ultrabug.net>, Vasiliy Horbachenko <shadowprince47@gmail.com>, AdamBSteele
 License: EPL-1.0
 
 Files: py3status/modules/bitcoin_price.py
-Copyright: André Doser <doser.andre@gmail.com>, Ultrabug <ultrabug@gentoo.org>
+Copyright: André Doser <doser.andre@gmail.com>, Ultrabug <ultrabug@ultrabug.net>
 License: BSD
 
 Files: py3status/modules/bluetooth.py
-Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@gentoo.org>
+Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@ultrabug.net>
 License: GPL-3+
 
 Files: py3status/modules/clementine.py
@@ -17,39 +17,39 @@ Copyright: Francois LASSERRE <choiz@me.com>
 License: GPL-3+
 
 Files: py3status/modules/dpms.py
-Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@gentoo.org>, Andre Doser <dosera AT tf.uni-freiburg.de>
+Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@ultrabug.net>, Andre Doser <dosera AT tf.uni-freiburg.de>
 License: BSD
 
 Files: py3status/modules/imap.py
-Copyright: rixx <rixx-git@cutebit.de>, Ultrabug <ultrabug@gentoo.org>, obb
+Copyright: rixx <rixx-git@cutebit.de>, Ultrabug <ultrabug@ultrabug.net>, obb
 License: BSD
 
 Files: py3status/modules/keyboard_layout.py
-Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>
+Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@ultrabug.net>, Vasiliy Horbachenko <shadowprince47@gmail.com>
 License: EPL-1.0
 
 Files: py3status/modules/mpd_status.py
-Copyright: Thomas Sanchez <thomas.sanchez@fyber.com>, Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>
+Copyright: Thomas Sanchez <thomas.sanchez@fyber.com>, Ultrabug <ultrabug@ultrabug.net>, Vasiliy Horbachenko <shadowprince47@gmail.com>
 License: EPL-1.0
 
 Files: py3status/modules/net_rate.py
-Copyright: Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>
+Copyright: Ultrabug <ultrabug@ultrabug.net>, Vasiliy Horbachenko <shadowprince47@gmail.com>
 License: EPL-1.0
 
 Files: py3status/modules/scratchpad_counter.py
-Copyright: Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>
+Copyright: Ultrabug <ultrabug@ultrabug.net>, Vasiliy Horbachenko <shadowprince47@gmail.com>
 License: EPL-1.0
 
 Files: py3status/modules/spaceapi.py
-Copyright: rixx <rixx-git@cutebit.de>, Timm Szigat <timm@szigat.de>, Ultrabug <ultrabug@gentoo.org>
+Copyright: rixx <rixx-git@cutebit.de>, Timm Szigat <timm@szigat.de>, Ultrabug <ultrabug@ultrabug.net>
 License: WTFPL
 
 Files: py3status/modules/vnstat.py
-Copyright: Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>
+Copyright: Ultrabug <ultrabug@ultrabug.net>, Vasiliy Horbachenko <shadowprince47@gmail.com>
 License: EPL-1.0
 
 Files: py3status/modules/window_title.py
-Copyright: Ultrabug <ultrabug@gentoo.org>, Vasiliy Horbachenko <shadowprince47@gmail.com>
+Copyright: Ultrabug <ultrabug@ultrabug.net>, Vasiliy Horbachenko <shadowprince47@gmail.com>
 License: EPL-1.0
 
 Files: debian/*
