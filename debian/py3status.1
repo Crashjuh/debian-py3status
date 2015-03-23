@@ -1,0 +1,46 @@
+.TH PY3STATUS "1" "March 2015" "py3status" "User Commands"
+.SH NAME
+py3status \- manual page for py3status
+.SH DESCRIPTION
+usage: py3status [\-h] [\-c I3STATUS_CONF] [\-d] [\-i INCLUDE_PATHS] [\-n INTERVAL]
+.IP
+[\-s] [\-t CACHE_TIMEOUT] [\-v]
+.SS "optional arguments:"
+.TP
+\fB\-h\fR, \fB\-\-help\fR
+show this help message and exit
+.TP
+\fB\-c\fR I3STATUS_CONF, \fB\-\-config\fR I3STATUS_CONF
+path to i3status config file
+.TP
+\fB\-d\fR, \fB\-\-debug\fR
+be verbose in syslog
+.TP
+\fB\-i\fR INCLUDE_PATHS, \fB\-\-include\fR INCLUDE_PATHS
+include user\-written modules from those directories
+(default ~/.i3/py3status)
+.TP
+\fB\-n\fR INTERVAL, \fB\-\-interval\fR INTERVAL
+update interval in seconds (default 1 sec)
+.TP
+\fB\-s\fR, \fB\-\-standalone\fR
+standalone mode, do not use i3status
+.TP
+\fB\-t\fR CACHE_TIMEOUT, \fB\-\-timeout\fR CACHE_TIMEOUT
+default injection cache timeout in seconds (default 60
+sec)
+.TP
+\fB\-v\fR, \fB\-\-version\fR
+show py3status version and exit
+.SH "SEE ALSO"
+More extensive documentation for
+.B py3status
+is available at
+.IR https://github.com/ultrabug/py3status
+and
+.br
+.IR https://github.com/ultrabug/py3status/wiki
+.SH AUTHOR
+py3status was written by Ultrabug <ultrabug@ultrabug.net>
+.PP
+This manual page was written by Federico Ceratto <federico@debian.org> for the Debian project and may be used by others.
