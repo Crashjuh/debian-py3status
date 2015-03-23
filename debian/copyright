@@ -17,8 +17,7 @@ Copyright: Francois LASSERRE <choiz@me.com>
 License: GPL-3+
 
 Files: py3status/modules/dpms.py
-Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@gentoo.org>, Andre
-Doser <dosera AT tf.uni-freiburg.de>
+Copyright: J.M. Dana <jmdana@gmail.com>, Ultrabug <ultrabug@gentoo.org>, Andre Doser <dosera AT tf.uni-freiburg.de>
 License: BSD
 
 Files: py3status/modules/imap.py
